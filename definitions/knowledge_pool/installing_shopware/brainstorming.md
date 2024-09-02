@@ -15,6 +15,7 @@ targetgroups: ["dev"]
 5. Installing Shopware on a k8 cluster
 6. Installing Shopware for contribution
 7. ...
+8. ...
 
 # Dependencies
 
